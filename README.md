@@ -1,2 +1,3 @@
-# java-com-spring-boot-kafka-e-microservicos
+# Java com Spring Boot, Kafka e Microserviços
+
 Conteúdo prático do curso
